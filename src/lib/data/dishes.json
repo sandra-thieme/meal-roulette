@@ -1,0 +1,1381 @@
+[
+	{
+		"country": "Afghanistan",
+		"iso_code": "AF",
+		"dishes": ["Kabuli Pulao", "Mantu", "Bolani"],
+		"flag": "🇦🇫",
+		"continent": "Asia"
+	},
+	{
+		"country": "Albania",
+		"iso_code": "AL",
+		"dishes": ["Tavë Kosi", "Byrek", "Fërgesë"],
+		"flag": "🇦🇱",
+		"continent": "Europe"
+	},
+	{
+		"country": "Algeria",
+		"iso_code": "DZ",
+		"dishes": ["Couscous", "Tajine", "Chorba"],
+		"flag": "🇩🇿",
+		"continent": "Africa"
+	},
+	{
+		"country": "Andorra",
+		"iso_code": "AD",
+		"dishes": ["Trinxat", "Escudella", "Embotits"],
+		"flag": "🇦🇩",
+		"continent": "Europe"
+	},
+	{
+		"country": "Angola",
+		"iso_code": "AO",
+		"dishes": ["Muamba de Galinha", "Calulu", "Funge"],
+		"flag": "🇦🇴",
+		"continent": "Africa"
+	},
+	{
+		"country": "Antigua and Barbuda",
+		"iso_code": "AG",
+		"dishes": ["Fungee and Pepperpot", "Ducana", "Saltfish"],
+		"flag": "🇦🇬",
+		"continent": "North America"
+	},
+	{
+		"country": "Argentina",
+		"iso_code": "AR",
+		"dishes": ["Asado", "Empanadas", "Milanesa"],
+		"flag": "🇦🇷",
+		"continent": "South America"
+	},
+	{
+		"country": "Armenia",
+		"iso_code": "AM",
+		"dishes": ["Khorovats", "Dolma", "Khash"],
+		"flag": "🇦🇲",
+		"continent": "Asia"
+	},
+	{
+		"country": "Australia",
+		"iso_code": "AU",
+		"dishes": ["Meat Pie", "Lamington", "Vegemite Toast"],
+		"flag": "🇦🇺",
+		"continent": "Oceania"
+	},
+	{
+		"country": "Austria",
+		"iso_code": "AT",
+		"dishes": ["Wiener Schnitzel", "Tafelspitz", "Kaiserschmarrn"],
+		"flag": "🇦🇹",
+		"continent": "Europe"
+	},
+	{
+		"country": "Azerbaijan",
+		"iso_code": "AZ",
+		"dishes": ["Plov", "Dolma", "Qutab"],
+		"flag": "🇦🇿",
+		"continent": "Asia"
+	},
+	{
+		"country": "Bahamas",
+		"iso_code": "BS",
+		"dishes": ["Conch Salad", "Peas and Rice", "Guava Duff"],
+		"flag": "🇧🇸",
+		"continent": "North America"
+	},
+	{
+		"country": "Bahrain",
+		"iso_code": "BH",
+		"dishes": ["Machboos", "Muhammar", "Balaleet"],
+		"flag": "🇧🇭",
+		"continent": "Asia"
+	},
+	{
+		"country": "Bangladesh",
+		"iso_code": "BD",
+		"dishes": ["Biryani", "Hilsa Fish Curry", "Panta Bhat"],
+		"flag": "🇧🇩",
+		"continent": "Asia"
+	},
+	{
+		"country": "Barbados",
+		"iso_code": "BB",
+		"dishes": ["Cou-Cou and Flying Fish", "Macaroni Pie", "Pudding and Souse"],
+		"flag": "🇧🇧",
+		"continent": "North America"
+	},
+	{
+		"country": "Belarus",
+		"iso_code": "BY",
+		"dishes": ["Draniki", "Machanka", "Kolduny"],
+		"flag": "🇧🇾",
+		"continent": "Europe"
+	},
+	{
+		"country": "Belgium",
+		"iso_code": "BE",
+		"dishes": ["Moules-Frites", "Belgian Waffles", "Stoofvlees"],
+		"flag": "🇧🇪",
+		"continent": "Europe"
+	},
+	{
+		"country": "Belize",
+		"iso_code": "BZ",
+		"dishes": ["Rice and Beans with Stewed Chicken", "Garnaches", "Hudut"],
+		"flag": "🇧🇿",
+		"continent": "North America"
+	},
+	{
+		"country": "Benin",
+		"iso_code": "BJ",
+		"dishes": ["Amiwo", "Wagasi", "Akassa"],
+		"flag": "🇧🇯",
+		"continent": "Africa"
+	},
+	{
+		"country": "Bhutan",
+		"iso_code": "BT",
+		"dishes": ["Ema Datshi", "Phaksha Paa", "Momos"],
+		"flag": "🇧🇹",
+		"continent": "Asia"
+	},
+	{
+		"country": "Bolivia",
+		"iso_code": "BO",
+		"dishes": ["Salteñas", "Pique Macho", "Silpancho"],
+		"flag": "🇧🇴",
+		"continent": "South America"
+	},
+	{
+		"country": "Bosnia and Herzegovina",
+		"iso_code": "BA",
+		"dishes": ["Ćevapi", "Burek", "Bosanski Lonac"],
+		"flag": "🇧🇦",
+		"continent": "Europe"
+	},
+	{
+		"country": "Botswana",
+		"iso_code": "BW",
+		"dishes": ["Seswaa", "Bogobe", "Morogo"],
+		"flag": "🇧🇼",
+		"continent": "Africa"
+	},
+	{
+		"country": "Brazil",
+		"iso_code": "BR",
+		"dishes": ["Feijoada", "Picanha", "Pão de Queijo"],
+		"flag": "🇧🇷",
+		"continent": "South America"
+	},
+	{
+		"country": "Brunei",
+		"iso_code": "BN",
+		"dishes": ["Ambuyat", "Nasi Katok", "Soto"],
+		"flag": "🇧🇳",
+		"continent": "Asia"
+	},
+	{
+		"country": "Bulgaria",
+		"iso_code": "BG",
+		"dishes": ["Banitsa", "Shopska Salad", "Kavarma"],
+		"flag": "🇧🇬",
+		"continent": "Europe"
+	},
+	{
+		"country": "Burkina Faso",
+		"iso_code": "BF",
+		"dishes": ["Tô", "Riz Gras", "Babenda"],
+		"flag": "🇧🇫",
+		"continent": "Africa"
+	},
+	{
+		"country": "Burundi",
+		"iso_code": "BI",
+		"dishes": ["Ibiharage", "Ugali", "Brochettes"],
+		"flag": "🇧🇮",
+		"continent": "Africa"
+	},
+	{
+		"country": "Cabo Verde",
+		"iso_code": "CV",
+		"dishes": ["Cachupa", "Caldo de Peixe", "Pastel com Diabo Dentro"],
+		"flag": "🇨🇻",
+		"continent": "Africa"
+	},
+	{
+		"country": "Cambodia",
+		"iso_code": "KH",
+		"dishes": ["Amok", "Bai Sach Chrouk", "Lok Lak"],
+		"flag": "🇰🇭",
+		"continent": "Asia"
+	},
+	{
+		"country": "Cameroon",
+		"iso_code": "CM",
+		"dishes": ["Ndolé", "Poulet DG", "Achu Soup"],
+		"flag": "🇨🇲",
+		"continent": "Africa"
+	},
+	{
+		"country": "Canada",
+		"iso_code": "CA",
+		"dishes": ["Poutine", "Butter Tart", "Tourtière"],
+		"flag": "🇨🇦",
+		"continent": "North America"
+	},
+	{
+		"country": "Central African Republic",
+		"iso_code": "CF",
+		"dishes": ["Kanda ti Nyama", "Gozo", "Saka Saka"],
+		"flag": "🇨🇫",
+		"continent": "Africa"
+	},
+	{
+		"country": "Chad",
+		"iso_code": "TD",
+		"dishes": ["Daraba", "Boule", "Jarrish"],
+		"flag": "🇹🇩",
+		"continent": "Africa"
+	},
+	{
+		"country": "Chile",
+		"iso_code": "CL",
+		"dishes": ["Pastel de Choclo", "Empanadas de Pino", "Curanto"],
+		"flag": "🇨🇱",
+		"continent": "South America"
+	},
+	{
+		"country": "China",
+		"iso_code": "CN",
+		"dishes": ["Peking Duck", "Mapo Tofu", "Jiaozi (Dumplings)"],
+		"flag": "🇨🇳",
+		"continent": "Asia"
+	},
+	{
+		"country": "Colombia",
+		"iso_code": "CO",
+		"dishes": ["Bandeja Paisa", "Arepas", "Ajiaco"],
+		"flag": "🇨🇴",
+		"continent": "South America"
+	},
+	{
+		"country": "Comoros",
+		"iso_code": "KM",
+		"dishes": ["Langouste à la Vanille", "Pilao", "Mkatra Foutra"],
+		"flag": "🇰🇲",
+		"continent": "Africa"
+	},
+	{
+		"country": "Costa Rica",
+		"iso_code": "CR",
+		"dishes": ["Gallo Pinto", "Casado", "Olla de Carne"],
+		"flag": "🇨🇷",
+		"continent": "North America"
+	},
+	{
+		"country": "Croatia",
+		"iso_code": "HR",
+		"dishes": ["Peka", "Pašticada", "Burek"],
+		"flag": "🇭🇷",
+		"continent": "Europe"
+	},
+	{
+		"country": "Cuba",
+		"iso_code": "CU",
+		"dishes": ["Ropa Vieja", "Moros y Cristianos", "Lechón Asado"],
+		"flag": "🇨🇺",
+		"continent": "North America"
+	},
+	{
+		"country": "Cyprus",
+		"iso_code": "CY",
+		"dishes": ["Souvlaki", "Halloumi", "Kleftiko"],
+		"flag": "🇨🇾",
+		"continent": "Asia"
+	},
+	{
+		"country": "Czech Republic",
+		"iso_code": "CZ",
+		"dishes": ["Svíčková", "Knedlíky", "Czech Goulash"],
+		"flag": "🇨🇿",
+		"continent": "Europe"
+	},
+	{
+		"country": "Democratic Republic of the Congo",
+		"iso_code": "CD",
+		"dishes": ["Moambe Chicken", "Fufu", "Saka Saka"],
+		"flag": "🇨🇩",
+		"continent": "Africa"
+	},
+	{
+		"country": "Denmark",
+		"iso_code": "DK",
+		"dishes": ["Smørrebrød", "Frikadeller", "Stegt Flæsk"],
+		"flag": "🇩🇰",
+		"continent": "Europe"
+	},
+	{
+		"country": "Djibouti",
+		"iso_code": "DJ",
+		"dishes": ["Skoudehkaris", "Fah-fah", "Lahoh"],
+		"flag": "🇩🇯",
+		"continent": "Africa"
+	},
+	{
+		"country": "Dominica",
+		"iso_code": "DM",
+		"dishes": ["Mountain Chicken Stew", "Callaloo Soup", "Bakes and Saltfish"],
+		"flag": "🇩🇲",
+		"continent": "North America"
+	},
+	{
+		"country": "Dominican Republic",
+		"iso_code": "DO",
+		"dishes": ["La Bandera", "Mangú", "Sancocho"],
+		"flag": "🇩🇴",
+		"continent": "North America"
+	},
+	{
+		"country": "Ecuador",
+		"iso_code": "EC",
+		"dishes": ["Ceviche", "Llapingachos", "Encebollado"],
+		"flag": "🇪🇨",
+		"continent": "South America"
+	},
+	{
+		"country": "Egypt",
+		"iso_code": "EG",
+		"dishes": ["Koshari", "Ful Medames", "Molokhia"],
+		"flag": "🇪🇬",
+		"continent": "Africa"
+	},
+	{
+		"country": "El Salvador",
+		"iso_code": "SV",
+		"dishes": ["Pupusas", "Yuca Frita", "Sopa de Pata"],
+		"flag": "🇸🇻",
+		"continent": "North America"
+	},
+	{
+		"country": "Equatorial Guinea",
+		"iso_code": "GQ",
+		"dishes": ["Pepesoup", "Succotash", "Sweet Banana Bread"],
+		"flag": "🇬🇶",
+		"continent": "Africa"
+	},
+	{
+		"country": "Eritrea",
+		"iso_code": "ER",
+		"dishes": ["Zigni", "Injera", "Tsebhi"],
+		"flag": "🇪🇷",
+		"continent": "Africa"
+	},
+	{
+		"country": "Estonia",
+		"iso_code": "EE",
+		"dishes": ["Mulgipuder", "Verivorst", "Kama"],
+		"flag": "🇪🇪",
+		"continent": "Europe"
+	},
+	{
+		"country": "Eswatini",
+		"iso_code": "SZ",
+		"dishes": ["Sishwala", "Sidvudvu", "Incwancwa"],
+		"flag": "🇸🇿",
+		"continent": "Africa"
+	},
+	{
+		"country": "Ethiopia",
+		"iso_code": "ET",
+		"dishes": ["Doro Wat", "Injera", "Kitfo"],
+		"flag": "🇪🇹",
+		"continent": "Africa"
+	},
+	{
+		"country": "Fiji",
+		"iso_code": "FJ",
+		"dishes": ["Kokoda", "Lovo", "Palusami"],
+		"flag": "🇫🇯",
+		"continent": "Oceania"
+	},
+	{
+		"country": "Finland",
+		"iso_code": "FI",
+		"dishes": ["Karjalanpiirakka", "Salmon Soup", "Reindeer Stew"],
+		"flag": "🇫🇮",
+		"continent": "Europe"
+	},
+	{
+		"country": "France",
+		"iso_code": "FR",
+		"dishes": ["Coq au Vin", "Ratatouille", "Boeuf Bourguignon"],
+		"flag": "🇫🇷",
+		"continent": "Europe"
+	},
+	{
+		"country": "Gabon",
+		"iso_code": "GA",
+		"dishes": ["Poulet Nyembwe", "Saka-Saka", "Brochettes"],
+		"flag": "🇬🇦",
+		"continent": "Africa"
+	},
+	{
+		"country": "Gambia",
+		"iso_code": "GM",
+		"dishes": ["Domoda", "Benachin", "Superkanja"],
+		"flag": "🇬🇲",
+		"continent": "Africa"
+	},
+	{
+		"country": "Georgia",
+		"iso_code": "GE",
+		"dishes": ["Khachapuri", "Khinkali", "Lobio"],
+		"flag": "🇬🇪",
+		"continent": "Asia"
+	},
+	{
+		"country": "Germany",
+		"iso_code": "DE",
+		"dishes": ["Sauerbraten", "Currywurst", "Spätzle"],
+		"flag": "🇩🇪",
+		"continent": "Europe"
+	},
+	{
+		"country": "Ghana",
+		"iso_code": "GH",
+		"dishes": ["Jollof Rice", "Fufu", "Waakye"],
+		"flag": "🇬🇭",
+		"continent": "Africa"
+	},
+	{
+		"country": "Greece",
+		"iso_code": "GR",
+		"dishes": ["Moussaka", "Souvlaki", "Tzatziki"],
+		"flag": "🇬🇷",
+		"continent": "Europe"
+	},
+	{
+		"country": "Grenada",
+		"iso_code": "GD",
+		"dishes": ["Oil Down", "Callaloo Soup", "Saltfish Souse"],
+		"flag": "🇬🇩",
+		"continent": "North America"
+	},
+	{
+		"country": "Guatemala",
+		"iso_code": "GT",
+		"dishes": ["Pepián", "Kak'ik", "Chiles Rellenos"],
+		"flag": "🇬🇹",
+		"continent": "North America"
+	},
+	{
+		"country": "Guinea",
+		"iso_code": "GN",
+		"dishes": ["Riz Gras", "Fouti", "Soup Kanja"],
+		"flag": "🇬🇳",
+		"continent": "Africa"
+	},
+	{
+		"country": "Guinea-Bissau",
+		"iso_code": "GW",
+		"dishes": ["Jollof Rice", "Caldo de Mancarra", "Chabéu"],
+		"flag": "🇬🇼",
+		"continent": "Africa"
+	},
+	{
+		"country": "Guyana",
+		"iso_code": "GY",
+		"dishes": ["Pepperpot", "Cook-up Rice", "Roti and Curry"],
+		"flag": "🇬🇾",
+		"continent": "South America"
+	},
+	{
+		"country": "Haiti",
+		"iso_code": "HT",
+		"dishes": ["Griot", "Soup Joumou", "Riz et Pois"],
+		"flag": "🇭🇹",
+		"continent": "North America"
+	},
+	{
+		"country": "Honduras",
+		"iso_code": "HN",
+		"dishes": ["Baleadas", "Plato Típico", "Sopa de Caracol"],
+		"flag": "🇭🇳",
+		"continent": "North America"
+	},
+	{
+		"country": "Hungary",
+		"iso_code": "HU",
+		"dishes": ["Goulash", "Lángos", "Chicken Paprikash"],
+		"flag": "🇭🇺",
+		"continent": "Europe"
+	},
+	{
+		"country": "Iceland",
+		"iso_code": "IS",
+		"dishes": ["Plokkfiskur", "Hangikjöt", "Skyr"],
+		"flag": "🇮🇸",
+		"continent": "Europe"
+	},
+	{
+		"country": "India",
+		"iso_code": "IN",
+		"dishes": ["Butter Chicken", "Biryani", "Masala Dosa"],
+		"flag": "🇮🇳",
+		"continent": "Asia"
+	},
+	{
+		"country": "Indonesia",
+		"iso_code": "ID",
+		"dishes": ["Nasi Goreng", "Rendang", "Satay"],
+		"flag": "🇮🇩",
+		"continent": "Asia"
+	},
+	{
+		"country": "Iran",
+		"iso_code": "IR",
+		"dishes": ["Chelo Kabab", "Tahdig", "Fesenjan"],
+		"flag": "🇮🇷",
+		"continent": "Asia"
+	},
+	{
+		"country": "Iraq",
+		"iso_code": "IQ",
+		"dishes": ["Masgouf", "Dolma", "Kubba"],
+		"flag": "🇮🇶",
+		"continent": "Asia"
+	},
+	{
+		"country": "Ireland",
+		"iso_code": "IE",
+		"dishes": ["Irish Stew", "Colcannon", "Boxty"],
+		"flag": "🇮🇪",
+		"continent": "Europe"
+	},
+	{
+		"country": "Israel",
+		"iso_code": "IL",
+		"dishes": ["Hummus", "Shakshuka", "Falafel"],
+		"flag": "🇮🇱",
+		"continent": "Asia"
+	},
+	{
+		"country": "Italy",
+		"iso_code": "IT",
+		"dishes": ["Pasta Carbonara", "Risotto", "Pizza Napoletana"],
+		"flag": "🇮🇹",
+		"continent": "Europe"
+	},
+	{
+		"country": "Ivory Coast",
+		"iso_code": "CI",
+		"dishes": ["Attiéké", "Kedjenou", "Garba"],
+		"flag": "🇨🇮",
+		"continent": "Africa"
+	},
+	{
+		"country": "Jamaica",
+		"iso_code": "JM",
+		"dishes": ["Jerk Chicken", "Ackee and Saltfish", "Curry Goat"],
+		"flag": "🇯🇲",
+		"continent": "North America"
+	},
+	{
+		"country": "Japan",
+		"iso_code": "JP",
+		"dishes": ["Sushi", "Ramen", "Tempura"],
+		"flag": "🇯🇵",
+		"continent": "Asia"
+	},
+	{
+		"country": "Jordan",
+		"iso_code": "JO",
+		"dishes": ["Mansaf", "Maqluba", "Falafel"],
+		"flag": "🇯🇴",
+		"continent": "Asia"
+	},
+	{
+		"country": "Kazakhstan",
+		"iso_code": "KZ",
+		"dishes": ["Beshbarmak", "Plov", "Manty"],
+		"flag": "🇰🇿",
+		"continent": "Asia"
+	},
+	{
+		"country": "Kenya",
+		"iso_code": "KE",
+		"dishes": ["Ugali", "Nyama Choma", "Sukuma Wiki"],
+		"flag": "🇰🇪",
+		"continent": "Africa"
+	},
+	{
+		"country": "Kiribati",
+		"iso_code": "KI",
+		"dishes": ["Palusami", "Coconut Fish", "Te Bua Tabwena"],
+		"flag": "🇰🇮",
+		"continent": "Oceania"
+	},
+	{
+		"country": "Kosovo",
+		"iso_code": "XK",
+		"dishes": ["Flia", "Tavë Kosi", "Byrek"],
+		"flag": "🇽🇰",
+		"continent": "Europe"
+	},
+	{
+		"country": "Kuwait",
+		"iso_code": "KW",
+		"dishes": ["Machboos", "Margoog", "Mutabbaq Samak"],
+		"flag": "🇰🇼",
+		"continent": "Asia"
+	},
+	{
+		"country": "Kyrgyzstan",
+		"iso_code": "KG",
+		"dishes": ["Beshbarmak", "Lagman", "Plov"],
+		"flag": "🇰🇬",
+		"continent": "Asia"
+	},
+	{
+		"country": "Laos",
+		"iso_code": "LA",
+		"dishes": ["Larb", "Sticky Rice", "Tam Mak Hoong"],
+		"flag": "🇱🇦",
+		"continent": "Asia"
+	},
+	{
+		"country": "Latvia",
+		"iso_code": "LV",
+		"dishes": ["Grey Peas with Bacon", "Rupjmaize", "Pīrāgi"],
+		"flag": "🇱🇻",
+		"continent": "Europe"
+	},
+	{
+		"country": "Lebanon",
+		"iso_code": "LB",
+		"dishes": ["Tabbouleh", "Kibbeh", "Hummus"],
+		"flag": "🇱🇧",
+		"continent": "Asia"
+	},
+	{
+		"country": "Lesotho",
+		"iso_code": "LS",
+		"dishes": ["Papa", "Moroho", "Motoho"],
+		"flag": "🇱🇸",
+		"continent": "Africa"
+	},
+	{
+		"country": "Liberia",
+		"iso_code": "LR",
+		"dishes": ["Cassava Leaf Soup", "Jollof Rice", "Fufu"],
+		"flag": "🇱🇷",
+		"continent": "Africa"
+	},
+	{
+		"country": "Libya",
+		"iso_code": "LY",
+		"dishes": ["Bazin", "Sharba Libiya", "Couscous"],
+		"flag": "🇱🇾",
+		"continent": "Africa"
+	},
+	{
+		"country": "Liechtenstein",
+		"iso_code": "LI",
+		"dishes": ["Käsknöpfle", "Ribel", "Hafalaab"],
+		"flag": "🇱🇮",
+		"continent": "Europe"
+	},
+	{
+		"country": "Lithuania",
+		"iso_code": "LT",
+		"dishes": ["Cepelinai", "Šaltibarščiai", "Kugelis"],
+		"flag": "🇱🇹",
+		"continent": "Europe"
+	},
+	{
+		"country": "Luxembourg",
+		"iso_code": "LU",
+		"dishes": ["Judd mat Gaardebounen", "Bouneschlupp", "Gromperekichelcher"],
+		"flag": "🇱🇺",
+		"continent": "Europe"
+	},
+	{
+		"country": "Madagascar",
+		"iso_code": "MG",
+		"dishes": ["Romazava", "Ravitoto", "Vary Amin'anana"],
+		"flag": "🇲🇬",
+		"continent": "Africa"
+	},
+	{
+		"country": "Malawi",
+		"iso_code": "MW",
+		"dishes": ["Nsima", "Chambo", "Mbatata"],
+		"flag": "🇲🇼",
+		"continent": "Africa"
+	},
+	{
+		"country": "Malaysia",
+		"iso_code": "MY",
+		"dishes": ["Nasi Lemak", "Rendang", "Satay"],
+		"flag": "🇲🇾",
+		"continent": "Asia"
+	},
+	{
+		"country": "Maldives",
+		"iso_code": "MV",
+		"dishes": ["Mas Huni", "Garudhiya", "Fihunu Mas"],
+		"flag": "🇲🇻",
+		"continent": "Asia"
+	},
+	{
+		"country": "Mali",
+		"iso_code": "ML",
+		"dishes": ["Tiguadege Na", "Jollof Rice", "Maafe"],
+		"flag": "🇲🇱",
+		"continent": "Africa"
+	},
+	{
+		"country": "Malta",
+		"iso_code": "MT",
+		"dishes": ["Pastizzi", "Fenkata (Rabbit Stew)", "Ftira"],
+		"flag": "🇲🇹",
+		"continent": "Europe"
+	},
+	{
+		"country": "Marshall Islands",
+		"iso_code": "MH",
+		"dishes": ["Coconut Crab", "Breadfruit", "Macadamia Nut Pie"],
+		"flag": "🇲🇭",
+		"continent": "Oceania"
+	},
+	{
+		"country": "Mauritania",
+		"iso_code": "MR",
+		"dishes": ["Thieboudienne", "Mechoui", "Couscous"],
+		"flag": "🇲🇷",
+		"continent": "Africa"
+	},
+	{
+		"country": "Mauritius",
+		"iso_code": "MU",
+		"dishes": ["Dholl Puri", "Octopus Curry", "Gateau Piment"],
+		"flag": "🇲🇺",
+		"continent": "Africa"
+	},
+	{
+		"country": "Mexico",
+		"iso_code": "MX",
+		"dishes": ["Tacos al Pastor", "Mole Poblano", "Chiles en Nogada"],
+		"flag": "🇲🇽",
+		"continent": "North America"
+	},
+	{
+		"country": "Micronesia",
+		"iso_code": "FM",
+		"dishes": ["Sashimi Tuna", "Breadfruit", "Coconut Crab"],
+		"flag": "🇫🇲",
+		"continent": "Oceania"
+	},
+	{
+		"country": "Moldova",
+		"iso_code": "MD",
+		"dishes": ["Mămăligă", "Sarmale", "Zeamă"],
+		"flag": "🇲🇩",
+		"continent": "Europe"
+	},
+	{
+		"country": "Monaco",
+		"iso_code": "MC",
+		"dishes": ["Barbagiuan", "Socca", "Stocafi"],
+		"flag": "🇲🇨",
+		"continent": "Europe"
+	},
+	{
+		"country": "Mongolia",
+		"iso_code": "MN",
+		"dishes": ["Buuz", "Khorkhog", "Tsuivan"],
+		"flag": "🇲🇳",
+		"continent": "Asia"
+	},
+	{
+		"country": "Montenegro",
+		"iso_code": "ME",
+		"dishes": ["Njeguški Pršut", "Kačamak", "Cicvara"],
+		"flag": "🇲🇪",
+		"continent": "Europe"
+	},
+	{
+		"country": "Morocco",
+		"iso_code": "MA",
+		"dishes": ["Tagine", "Couscous", "Pastilla"],
+		"flag": "🇲🇦",
+		"continent": "Africa"
+	},
+	{
+		"country": "Mozambique",
+		"iso_code": "MZ",
+		"dishes": ["Piri Piri Chicken", "Matapa", "Xima"],
+		"flag": "🇲🇿",
+		"continent": "Africa"
+	},
+	{
+		"country": "Myanmar",
+		"iso_code": "MM",
+		"dishes": ["Mohinga", "Lahpet Thoke", "Shan Noodles"],
+		"flag": "🇲🇲",
+		"continent": "Asia"
+	},
+	{
+		"country": "Namibia",
+		"iso_code": "NA",
+		"dishes": ["Potjiekos", "Biltong", "Oshifima"],
+		"flag": "🇳🇦",
+		"continent": "Africa"
+	},
+	{
+		"country": "Nauru",
+		"iso_code": "NR",
+		"dishes": ["Tuna Dishes", "Coconut Rice", "Macaroni"],
+		"flag": "🇳🇷",
+		"continent": "Oceania"
+	},
+	{
+		"country": "Nepal",
+		"iso_code": "NP",
+		"dishes": ["Dal Bhat", "Momos", "Sel Roti"],
+		"flag": "🇳🇵",
+		"continent": "Asia"
+	},
+	{
+		"country": "Netherlands",
+		"iso_code": "NL",
+		"dishes": ["Stamppot", "Bitterballen", "Erwtensoep"],
+		"flag": "🇳🇱",
+		"continent": "Europe"
+	},
+	{
+		"country": "New Zealand",
+		"iso_code": "NZ",
+		"dishes": ["Hangi", "Pavlova", "Meat Pie"],
+		"flag": "🇳🇿",
+		"continent": "Oceania"
+	},
+	{
+		"country": "Nicaragua",
+		"iso_code": "NI",
+		"dishes": ["Gallo Pinto", "Vigorón", "Nacatamal"],
+		"flag": "🇳🇮",
+		"continent": "North America"
+	},
+	{
+		"country": "Niger",
+		"iso_code": "NE",
+		"dishes": ["Dambou", "Tuwo", "Kilishi"],
+		"flag": "🇳🇪",
+		"continent": "Africa"
+	},
+	{
+		"country": "Nigeria",
+		"iso_code": "NG",
+		"dishes": ["Jollof Rice", "Egusi Soup", "Suya"],
+		"flag": "🇳🇬",
+		"continent": "Africa"
+	},
+	{
+		"country": "North Korea",
+		"iso_code": "KP",
+		"dishes": ["Naengmyeon", "Kimchi", "Sundae"],
+		"flag": "🇰🇵",
+		"continent": "Asia"
+	},
+	{
+		"country": "North Macedonia",
+		"iso_code": "MK",
+		"dishes": ["Tavče Gravče", "Ajvar", "Shopska Salad"],
+		"flag": "🇲🇰",
+		"continent": "Europe"
+	},
+	{
+		"country": "Norway",
+		"iso_code": "NO",
+		"dishes": ["Fårikål", "Rakfisk", "Lutefisk"],
+		"flag": "🇳🇴",
+		"continent": "Europe"
+	},
+	{
+		"country": "Oman",
+		"iso_code": "OM",
+		"dishes": ["Shuwa", "Majboos", "Harees"],
+		"flag": "🇴🇲",
+		"continent": "Asia"
+	},
+	{
+		"country": "Pakistan",
+		"iso_code": "PK",
+		"dishes": ["Biryani", "Nihari", "Karahi"],
+		"flag": "🇵🇰",
+		"continent": "Asia"
+	},
+	{
+		"country": "Palau",
+		"iso_code": "PW",
+		"dishes": ["Tuna Salad with Tapioca", "Fruit Bat Soup", "Demok"],
+		"flag": "🇵🇼",
+		"continent": "Oceania"
+	},
+	{
+		"country": "Palestine",
+		"iso_code": "PS",
+		"dishes": ["Musakhan", "Maqluba", "Knafeh"],
+		"flag": "🇵🇸",
+		"continent": "Asia"
+	},
+	{
+		"country": "Panama",
+		"iso_code": "PA",
+		"dishes": ["Sancocho", "Ropa Vieja", "Carimañolas"],
+		"flag": "🇵🇦",
+		"continent": "North America"
+	},
+	{
+		"country": "Papua New Guinea",
+		"iso_code": "PG",
+		"dishes": ["Mumu", "Kokoda", "Saksak"],
+		"flag": "🇵🇬",
+		"continent": "Oceania"
+	},
+	{
+		"country": "Paraguay",
+		"iso_code": "PY",
+		"dishes": ["Sopa Paraguaya", "Chipa", "Asado"],
+		"flag": "🇵🇾",
+		"continent": "South America"
+	},
+	{
+		"country": "Peru",
+		"iso_code": "PE",
+		"dishes": ["Ceviche", "Lomo Saltado", "Aji de Gallina"],
+		"flag": "🇵🇪",
+		"continent": "South America"
+	},
+	{
+		"country": "Philippines",
+		"iso_code": "PH",
+		"dishes": ["Adobo", "Sinigang", "Lechon"],
+		"flag": "🇵🇭",
+		"continent": "Asia"
+	},
+	{
+		"country": "Poland",
+		"iso_code": "PL",
+		"dishes": ["Pierogi", "Bigos", "Żurek"],
+		"flag": "🇵🇱",
+		"continent": "Europe"
+	},
+	{
+		"country": "Portugal",
+		"iso_code": "PT",
+		"dishes": ["Bacalhau à Brás", "Caldo Verde", "Francesinha"],
+		"flag": "🇵🇹",
+		"continent": "Europe"
+	},
+	{
+		"country": "Qatar",
+		"iso_code": "QA",
+		"dishes": ["Machboos", "Harees", "Balaleet"],
+		"flag": "🇶🇦",
+		"continent": "Asia"
+	},
+	{
+		"country": "Republic of the Congo",
+		"iso_code": "CG",
+		"dishes": ["Saka Saka", "Poulet Moambe", "Maboke"],
+		"flag": "🇨🇬",
+		"continent": "Africa"
+	},
+	{
+		"country": "Romania",
+		"iso_code": "RO",
+		"dishes": ["Sarmale", "Mămăligă", "Mici"],
+		"flag": "🇷🇴",
+		"continent": "Europe"
+	},
+	{
+		"country": "Russia",
+		"iso_code": "RU",
+		"dishes": ["Borscht", "Pelmeni", "Beef Stroganoff"],
+		"flag": "🇷🇺",
+		"continent": "Europe"
+	},
+	{
+		"country": "Rwanda",
+		"iso_code": "RW",
+		"dishes": ["Ugali", "Isombe", "Brochettes"],
+		"flag": "🇷🇼",
+		"continent": "Africa"
+	},
+	{
+		"country": "Saint Kitts and Nevis",
+		"iso_code": "KN",
+		"dishes": ["Stewed Saltfish", "Goat Water", "Conkies"],
+		"flag": "🇰🇳",
+		"continent": "North America"
+	},
+	{
+		"country": "Saint Lucia",
+		"iso_code": "LC",
+		"dishes": ["Green Fig and Saltfish", "Bouyon", "Accra"],
+		"flag": "🇱🇨",
+		"continent": "North America"
+	},
+	{
+		"country": "Saint Vincent and the Grenadines",
+		"iso_code": "VC",
+		"dishes": ["Roasted Breadfruit and Fried Jackfish", "Souse", "Callaloo Soup"],
+		"flag": "🇻🇨",
+		"continent": "North America"
+	},
+	{
+		"country": "Samoa",
+		"iso_code": "WS",
+		"dishes": ["Palusami", "Oka", "Sapasui"],
+		"flag": "🇼🇸",
+		"continent": "Oceania"
+	},
+	{
+		"country": "San Marino",
+		"iso_code": "SM",
+		"dishes": ["Nidi di Rondine", "Fagioli con le Cotiche", "Torta Tre Monti"],
+		"flag": "🇸🇲",
+		"continent": "Europe"
+	},
+	{
+		"country": "Sao Tome and Principe",
+		"iso_code": "ST",
+		"dishes": ["Calulu", "Blato", "Feijoada"],
+		"flag": "🇸🇹",
+		"continent": "Africa"
+	},
+	{
+		"country": "Saudi Arabia",
+		"iso_code": "SA",
+		"dishes": ["Kabsa", "Mandi", "Jareesh"],
+		"flag": "🇸🇦",
+		"continent": "Asia"
+	},
+	{
+		"country": "Senegal",
+		"iso_code": "SN",
+		"dishes": ["Thieboudienne", "Yassa", "Mafe"],
+		"flag": "🇸🇳",
+		"continent": "Africa"
+	},
+	{
+		"country": "Serbia",
+		"iso_code": "RS",
+		"dishes": ["Ćevapi", "Pljeskavica", "Sarma"],
+		"flag": "🇷🇸",
+		"continent": "Europe"
+	},
+	{
+		"country": "Seychelles",
+		"iso_code": "SC",
+		"dishes": ["Grilled Fish with Breadfruit", "Ladob", "Octopus Curry"],
+		"flag": "🇸🇨",
+		"continent": "Africa"
+	},
+	{
+		"country": "Sierra Leone",
+		"iso_code": "SL",
+		"dishes": ["Cassava Leaf Stew", "Jollof Rice", "Groundnut Soup"],
+		"flag": "🇸🇱",
+		"continent": "Africa"
+	},
+	{
+		"country": "Singapore",
+		"iso_code": "SG",
+		"dishes": ["Chicken Rice", "Laksa", "Chili Crab"],
+		"flag": "🇸🇬",
+		"continent": "Asia"
+	},
+	{
+		"country": "Slovakia",
+		"iso_code": "SK",
+		"dishes": ["Bryndzové Halušky", "Kapustnica", "Segedín Goulash"],
+		"flag": "🇸🇰",
+		"continent": "Europe"
+	},
+	{
+		"country": "Slovenia",
+		"iso_code": "SI",
+		"dishes": ["Potica", "Kranjska Klobasa", "Jota"],
+		"flag": "🇸🇮",
+		"continent": "Europe"
+	},
+	{
+		"country": "Solomon Islands",
+		"iso_code": "SB",
+		"dishes": ["Poi", "Cassava Pudding", "Motu Fish Stew"],
+		"flag": "🇸🇧",
+		"continent": "Oceania"
+	},
+	{
+		"country": "Somalia",
+		"iso_code": "SO",
+		"dishes": ["Bariis Iskukaris", "Sambusa", "Suugo Suqaar"],
+		"flag": "🇸🇴",
+		"continent": "Africa"
+	},
+	{
+		"country": "South Africa",
+		"iso_code": "ZA",
+		"dishes": ["Bobotie", "Biltong", "Boerewors"],
+		"flag": "🇿🇦",
+		"continent": "Africa"
+	},
+	{
+		"country": "South Korea",
+		"iso_code": "KR",
+		"dishes": ["Kimchi", "Bibimbap", "Bulgogi"],
+		"flag": "🇰🇷",
+		"continent": "Asia"
+	},
+	{
+		"country": "South Sudan",
+		"iso_code": "SS",
+		"dishes": ["Kisra", "Ful Medames", "Asida"],
+		"flag": "🇸🇸",
+		"continent": "Africa"
+	},
+	{
+		"country": "Spain",
+		"iso_code": "ES",
+		"dishes": ["Paella", "Tortilla Española", "Jamón Ibérico"],
+		"flag": "🇪🇸",
+		"continent": "Europe"
+	},
+	{
+		"country": "Sri Lanka",
+		"iso_code": "LK",
+		"dishes": ["Rice and Curry", "Hoppers", "Kottu"],
+		"flag": "🇱🇰",
+		"continent": "Asia"
+	},
+	{
+		"country": "Sudan",
+		"iso_code": "SD",
+		"dishes": ["Ful Medames", "Kisra", "Mullah"],
+		"flag": "🇸🇩",
+		"continent": "Africa"
+	},
+	{
+		"country": "Suriname",
+		"iso_code": "SR",
+		"dishes": ["Pom", "Roti", "Pastei"],
+		"flag": "🇸🇷",
+		"continent": "South America"
+	},
+	{
+		"country": "Sweden",
+		"iso_code": "SE",
+		"dishes": ["Köttbullar", "Gravlax", "Räksmörgås"],
+		"flag": "🇸🇪",
+		"continent": "Europe"
+	},
+	{
+		"country": "Switzerland",
+		"iso_code": "CH",
+		"dishes": ["Fondue", "Raclette", "Rösti"],
+		"flag": "🇨🇭",
+		"continent": "Europe"
+	},
+	{
+		"country": "Syria",
+		"iso_code": "SY",
+		"dishes": ["Kibbeh", "Shawarma", "Maqluba"],
+		"flag": "🇸🇾",
+		"continent": "Asia"
+	},
+	{
+		"country": "Taiwan",
+		"iso_code": "TW",
+		"dishes": ["Beef Noodle Soup", "Oyster Omelette", "Braised Pork Rice"],
+		"flag": "🇹🇼",
+		"continent": "Asia"
+	},
+	{
+		"country": "Tajikistan",
+		"iso_code": "TJ",
+		"dishes": ["Plov", "Qurutob", "Manti"],
+		"flag": "🇹🇯",
+		"continent": "Asia"
+	},
+	{
+		"country": "Tanzania",
+		"iso_code": "TZ",
+		"dishes": ["Ugali", "Nyama Choma", "Pilau"],
+		"flag": "🇹🇿",
+		"continent": "Africa"
+	},
+	{
+		"country": "Thailand",
+		"iso_code": "TH",
+		"dishes": ["Pad Thai", "Tom Yum", "Green Curry"],
+		"flag": "🇹🇭",
+		"continent": "Asia"
+	},
+	{
+		"country": "Timor-Leste",
+		"iso_code": "TL",
+		"dishes": ["Ikan Pepes", "Batar Daan", "Caril"],
+		"flag": "🇹🇱",
+		"continent": "Asia"
+	},
+	{
+		"country": "Togo",
+		"iso_code": "TG",
+		"dishes": ["Fufu", "Akume", "Riz Sauce Graine"],
+		"flag": "🇹🇬",
+		"continent": "Africa"
+	},
+	{
+		"country": "Tonga",
+		"iso_code": "TO",
+		"dishes": ["Lu Pulu", "Ota Ika", "Faikakai"],
+		"flag": "🇹🇴",
+		"continent": "Oceania"
+	},
+	{
+		"country": "Trinidad and Tobago",
+		"iso_code": "TT",
+		"dishes": ["Doubles", "Pelau", "Roti"],
+		"flag": "🇹🇹",
+		"continent": "North America"
+	},
+	{
+		"country": "Tunisia",
+		"iso_code": "TN",
+		"dishes": ["Couscous", "Brik", "Lablabi"],
+		"flag": "🇹🇳",
+		"continent": "Africa"
+	},
+	{
+		"country": "Turkey",
+		"iso_code": "TR",
+		"dishes": ["Kebab", "Baklava", "Meze with Dolma"],
+		"flag": "🇹🇷",
+		"continent": "Asia"
+	},
+	{
+		"country": "Turkmenistan",
+		"iso_code": "TM",
+		"dishes": ["Plov", "Manty", "Chorba"],
+		"flag": "🇹🇲",
+		"continent": "Asia"
+	},
+	{
+		"country": "Tuvalu",
+		"iso_code": "TV",
+		"dishes": ["Pulaka", "Coconut Fish", "Palusami"],
+		"flag": "🇹🇻",
+		"continent": "Oceania"
+	},
+	{
+		"country": "Uganda",
+		"iso_code": "UG",
+		"dishes": ["Matoke", "Luwombo", "Rolex"],
+		"flag": "🇺🇬",
+		"continent": "Africa"
+	},
+	{
+		"country": "Ukraine",
+		"iso_code": "UA",
+		"dishes": ["Borscht", "Varenyky", "Holubtsi"],
+		"flag": "🇺🇦",
+		"continent": "Europe"
+	},
+	{
+		"country": "United Arab Emirates",
+		"iso_code": "AE",
+		"dishes": ["Machboos", "Harees", "Luqaimat"],
+		"flag": "🇦🇪",
+		"continent": "Asia"
+	},
+	{
+		"country": "United Kingdom",
+		"iso_code": "GB",
+		"dishes": ["Fish and Chips", "Sunday Roast", "Shepherd's Pie"],
+		"flag": "🇬🇧",
+		"continent": "Europe"
+	},
+	{
+		"country": "United States",
+		"iso_code": "US",
+		"dishes": ["Hamburger", "BBQ Ribs", "Apple Pie"],
+		"flag": "🇺🇸",
+		"continent": "North America"
+	},
+	{
+		"country": "Uruguay",
+		"iso_code": "UY",
+		"dishes": ["Asado", "Chivito", "Milanesa"],
+		"flag": "🇺🇾",
+		"continent": "South America"
+	},
+	{
+		"country": "Uzbekistan",
+		"iso_code": "UZ",
+		"dishes": ["Plov", "Lagman", "Manti"],
+		"flag": "🇺🇿",
+		"continent": "Asia"
+	},
+	{
+		"country": "Vanuatu",
+		"iso_code": "VU",
+		"dishes": ["Lap Lap", "Tuluk", "Coconut Crab"],
+		"flag": "🇻🇺",
+		"continent": "Oceania"
+	},
+	{
+		"country": "Vatican City",
+		"iso_code": "VA",
+		"dishes": ["Carciofi alla Romana", "Saltimbocca alla Romana", "Cacio e Pepe"],
+		"flag": "🇻🇦",
+		"continent": "Europe"
+	},
+	{
+		"country": "Venezuela",
+		"iso_code": "VE",
+		"dishes": ["Pabellón Criollo", "Arepas", "Hallacas"],
+		"flag": "🇻🇪",
+		"continent": "South America"
+	},
+	{
+		"country": "Vietnam",
+		"iso_code": "VN",
+		"dishes": ["Pho", "Banh Mi", "Spring Rolls"],
+		"flag": "🇻🇳",
+		"continent": "Asia"
+	},
+	{
+		"country": "Yemen",
+		"iso_code": "YE",
+		"dishes": ["Saltah", "Mandi", "Fahsa"],
+		"flag": "🇾🇪",
+		"continent": "Asia"
+	},
+	{
+		"country": "Zambia",
+		"iso_code": "ZM",
+		"dishes": ["Nshima", "Ifisashi", "Kapenta"],
+		"flag": "🇿🇲",
+		"continent": "Africa"
+	},
+	{
+		"country": "Zimbabwe",
+		"iso_code": "ZW",
+		"dishes": ["Sadza", "Bota", "Muriwo"],
+		"flag": "🇿🇼",
+		"continent": "Africa"
+	}
+]
