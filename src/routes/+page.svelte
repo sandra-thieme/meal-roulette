@@ -11,7 +11,7 @@
 		const id = ++requestId;
 		loading = true;
 		const results = await Promise.all(
-			forEntry().dishes.map((dish) => getDishImage(`${forEntry().country} dish ${dish}`))
+			forEntry().dishes.map((dish: string) => getDishImage(`${forEntry().country} dish ${dish}`))
 		);
 		if (id === requestId) images = results;
 		loading = false;
