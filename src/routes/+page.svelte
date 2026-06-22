@@ -24,41 +24,63 @@
 	loadImages(() => entry);
 </script>
 
-<div class="mx-auto max-w-xl p-8 text-center">
-	<h1 class="mb-6 text-4xl font-bold">Meal Roulette</h1>
+<div class="min-h-screen bg-stone-50 px-4 py-8">
+	<div class="mx-auto max-w-2xl">
 
-	<div class="rounded-xl border p-6 shadow">
-		<h2 class="text-3xl">
-			{entry.flag}
-			{entry.country}
-		</h2>
+		<!-- Header -->
+		<h1 class="mb-8 text-center text-4xl font-bold tracking-tight">🍽️ Meal Roulette</h1>
 
-		<p class="mt-2 text-sm opacity-70">
-			{entry.continent}
-		</p>
+		<!-- Card -->
+		<div class="rounded-2xl border border-stone-200 bg-white p-6 shadow-md">
 
-		<ul class="mt-6 space-y-2">
-			{#each entry.dishes as dish, i (dish)}
-				<li class="rounded-lg border p-3">
-					<p class="font-medium">{dish}</p>
+			<!-- Country header row: name/continent left, map right -->
+			<div class="flex flex-col items-center gap-4 sm:flex-row sm:items-start">
+				<div class="flex-1 text-center sm:text-left">
+					<h2 class="text-3xl font-semibold">
+						{entry.flag} {entry.country}
+					</h2>
+					<p class="mt-1 text-sm text-stone-400 uppercase tracking-widest">
+						{entry.continent}
+					</p>
+				</div>
+				<div class="w-full sm:w-56 shrink-0">
+					<ContinentMap isoCode={entry.iso_code} continent={entry.continent} />
+				</div>
+			</div>
 
-					{#if loading}
-						<div class="mt-2 h-40 w-full flex items-center justify-center">
-							<div
-								class="h-8 w-8 animate-spin rounded-full border-4 border-gray-300 border-t-gray-800"
-							></div>
-						</div>
-					{:else if images[i]}
-						<!-- <img class="mt-2 h-40 w-full rounded-md object-cover" src={images[i]} alt={dish} /> -->
-						<img class="mt-2 w-full rounded-md h-auto" src={images[i]} alt={dish} />
-					{/if}
-				</li>
-			{/each}
-		</ul>
+			<!-- Divider -->
+			<div class="my-5 border-t border-stone-100"></div>
 
-		<button disabled={loading} class="mt-6 rounded-lg px-4 py-2 font-medium" onclick={reroll}>
-			Random country
-		</button>
-		<ContinentMap isoCode={entry.iso_code} continent={entry.continent} />
+			<!-- Dishes grid -->
+			<ul class="grid grid-cols-1 gap-4 sm:grid-cols-3">
+				{#each entry.dishes as dish, i (dish)}
+					<li class="rounded-xl border border-stone-200 bg-stone-50 p-3">
+						<p class="text-center font-semibold text-stone-700">{dish}</p>
+						{#if loading}
+							<div class="mt-3 flex h-36 w-full items-center justify-center">
+								<div class="h-7 w-7 animate-spin rounded-full border-4 border-stone-200 border-t-stone-600"></div>
+							</div>
+						{:else if images[i]}
+							<img
+								class="mt-3 w-full rounded-lg h-auto"
+								src={images[i]}
+								alt="{dish}, a dish from {entry.country}"
+							/>
+						{/if}
+					</li>
+				{/each}
+			</ul>
+
+			<!-- Button -->
+			<div class="mt-6 text-center">
+				<button
+					disabled={loading}
+					onclick={reroll}
+					class="rounded-full bg-orange-500 px-8 py-3 font-semibold text-white shadow-sm transition-all hover:bg-orange-600 active:scale-95 disabled:opacity-50 disabled:cursor-not-allowed"
+				>
+					🎲 Random country
+				</button>
+			</div>
+		</div>
 	</div>
 </div>
