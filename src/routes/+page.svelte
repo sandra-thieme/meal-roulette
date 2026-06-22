@@ -25,19 +25,18 @@
 </script>
 
 <div class="min-h-screen bg-stone-50 px-4 py-8">
-	<div class="mx-auto max-w-2xl">
-
+	<div class="mx-auto max-w-4xl">
 		<!-- Header -->
 		<h1 class="mb-8 text-center text-4xl font-bold tracking-tight">🍽️ Meal Roulette</h1>
 
 		<!-- Card -->
 		<div class="rounded-2xl border border-stone-200 bg-white p-6 shadow-md">
-
 			<!-- Country header row: name/continent left, map right -->
 			<div class="flex flex-col items-center gap-4 sm:flex-row sm:items-start">
 				<div class="flex-1 text-center sm:text-left">
 					<h2 class="text-3xl font-semibold">
-						{entry.flag} {entry.country}
+						{entry.flag}
+						{entry.country}
 					</h2>
 					<p class="mt-1 text-sm text-stone-400 uppercase tracking-widest">
 						{entry.continent}
@@ -55,10 +54,21 @@
 			<ul class="grid grid-cols-1 gap-4 sm:grid-cols-3">
 				{#each entry.dishes as dish, i (dish)}
 					<li class="rounded-xl border border-stone-200 bg-stone-50 p-3">
-						<p class="text-center font-semibold text-stone-700">{dish}</p>
+						<p class="text-center font-semibold text-stone-700">
+							<a
+								href="https://www.google.com/search?q={encodeURIComponent(
+									`${entry.country} dish ${dish} recipe`
+								)}"
+								target="_blank"
+								rel="noopener noreferrer"
+								class="hover:text-teal-500 hover:underline">{dish}</a
+							>
+						</p>
 						{#if loading}
 							<div class="mt-3 flex h-36 w-full items-center justify-center">
-								<div class="h-7 w-7 animate-spin rounded-full border-4 border-stone-200 border-t-stone-600"></div>
+								<div
+									class="h-7 w-7 animate-spin rounded-full border-4 border-stone-200 border-t-stone-600"
+								></div>
 							</div>
 						{:else if images[i]}
 							<img
@@ -76,7 +86,7 @@
 				<button
 					disabled={loading}
 					onclick={reroll}
-					class="rounded-full bg-orange-500 px-8 py-3 font-semibold text-white shadow-sm transition-all hover:bg-orange-600 active:scale-95 disabled:opacity-50 disabled:cursor-not-allowed"
+					class="rounded-full bg-teal-500 px-8 py-3 font-semibold text-white shadow-sm transition-all hover:bg-teal-600 active:scale-95 disabled:opacity-50 disabled:cursor-not-allowed"
 				>
 					🎲 Random country
 				</button>

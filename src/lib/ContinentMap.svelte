@@ -26,7 +26,12 @@
 		fetch(`${base}/countries-topo.json`)
 			.then((r) => r.json())
 			.then((topo: Topology) => {
-				allFeatures = ((feature(topo, (topo.objects as Record<string, GeometryCollection>).countries) as FeatureCollection).features) as GeoFeature[];
+				allFeatures = (
+					feature(
+						topo,
+						(topo.objects as Record<string, GeometryCollection>).countries
+					) as FeatureCollection
+				).features as GeoFeature[];
 				loaded = true;
 			});
 	});
@@ -45,19 +50,40 @@
 
 		// Fit projection to the continent's bounding box
 		const continentBounds: Record<string, [[number, number], [number, number]]> = {
-			'Europe':        [[-25, 34], [45, 72]],
-			'Asia':          [[25, -12], [150, 55]],
-			'Africa':        [[-20, -38], [55, 38]],
-			'North America': [[-170, 5], [-50, 75]],
-			'South America': [[-85, -58], [-30, 15]],
-			'Oceania':       [[110, -50], [180, 5]],
+			Europe: [
+				[-25, 34],
+				[45, 72]
+			],
+			Asia: [
+				[25, -12],
+				[150, 55]
+			],
+			Africa: [
+				[-20, -38],
+				[55, 38]
+			],
+			'North America': [
+				[-170, 5],
+				[-50, 75]
+			],
+			'South America': [
+				[-85, -58],
+				[-30, 15]
+			],
+			Oceania: [
+				[110, -50],
+				[180, 5]
+			]
 		};
 
 		const bounds = continentBounds[continent];
 		if (bounds) {
 			const [sw, ne] = bounds;
 			proj.fitExtent(
-				[[PADDING, PADDING], [WIDTH - PADDING, HEIGHT - PADDING]],
+				[
+					[PADDING, PADDING],
+					[WIDTH - PADDING, HEIGHT - PADDING]
+				],
 				{
 					type: 'Feature',
 					geometry: { type: 'LineString', coordinates: [sw, ne] },
@@ -66,7 +92,10 @@
 			);
 		} else {
 			proj.fitExtent(
-				[[PADDING, PADDING], [WIDTH - PADDING, HEIGHT - PADDING]],
+				[
+					[PADDING, PADDING],
+					[WIDTH - PADDING, HEIGHT - PADDING]
+				],
 				{ type: 'FeatureCollection', features: continentFeatures } as FeatureCollection
 			);
 		}
@@ -93,7 +122,7 @@
 			{#each paths as p, i (i)}
 				<path
 					d={p.d}
-					fill={p.highlighted ? '#e85d26' : '#d1d5db'}
+					fill={p.highlighted ? '#0d9488' : '#d1d5db'}
 					stroke="white"
 					stroke-width={p.highlighted ? 1.5 : 0.7}
 					opacity={p.highlighted ? 1 : 0.7}
