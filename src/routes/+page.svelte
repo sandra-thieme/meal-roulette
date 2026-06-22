@@ -1,5 +1,6 @@
 <script lang="ts">
 	import { type DishEntry, randomEntry, getDishImage } from '$lib/dishpicker';
+	import ContinentMap from '$lib/ContinentMap.svelte';
 
 	const reroll = (): void => {
 		entry = randomEntry();
@@ -58,5 +59,6 @@
 		<button disabled={loading} class="mt-6 rounded-lg px-4 py-2 font-medium" onclick={reroll}>
 			Random country
 		</button>
+		<ContinentMap isoCode={entry.iso_code} continent={entry.continent} />
 	</div>
 </div>
